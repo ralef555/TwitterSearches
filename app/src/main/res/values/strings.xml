@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwitterSearches</string>
+    <string name="searchURL">http://mobile.twitter.com/search/</string>
+    <string name="shareSubject">"Pesquisa no Twitter que pode lhe interessar"</string>
+    <string name="shareMessage">"Confira os resultados desta pesquisa no Twitter: %s"</string>
+    <string name="shareSearch">"Compartilhar pesquisa:"</string>
+    <string name="confirmMessage">"Deseja remover: %s"</string>
+
+    <string-array name="dialog_items">
+        <item>Compartilhar</item>
+        <item>Editar</item>
+        <item>Excluir</item>
+    </string-array>
+</resources>
